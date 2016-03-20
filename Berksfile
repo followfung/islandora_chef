@@ -1,4 +1,4 @@
-source "http://api.berkshelf.com"
+source "https://supermarket.chef.io"
 
 # server cookbooks
 cookbook 'ubuntu-baseline', :path => './cookbooks/ubuntu-baseline'
