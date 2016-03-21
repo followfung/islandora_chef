@@ -12,3 +12,4 @@ bin/*
 *.box
 
 *.json
+/tmp
